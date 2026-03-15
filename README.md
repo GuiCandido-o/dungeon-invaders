@@ -94,12 +94,14 @@ Exemplos de poderes:
 
 # 🕹️ Controles (Exemplo)
 
-  Tecla     Ação
-  --------- ---------------------
-  W A S D   Movimentação
-  Mouse     Mirar
-  Clique    Atacar
-  Space     Habilidade especial
+  Teclas / Ação
+  
+  ---------------------
+
+  W A S D - Movimentação
+  Mouse - Mirar
+  Mouse 1 - Atacar
+  Space - Habilidade especial
 
 ------------------------------------------------------------------------
 
