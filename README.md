@@ -98,10 +98,10 @@ Exemplos de poderes:
   
   ---------------------
 
-  W A S D - Movimentação
-  Mouse - Mirar
-  Mouse 1 - Atacar
-  Space - Habilidade especial
+  - W A S D - Movimentação
+  - Mouse - Mirar
+  - Mouse 1 - Atacar
+  - Space - Habilidade especial
 
 ------------------------------------------------------------------------
 
